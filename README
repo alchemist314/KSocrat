@@ -17,7 +17,8 @@ You need qmake-qt5 to make the project.
 5.Put dictionary files into folder:
     /opt/QT5/ksocrat-5.0.0/dict/enru_utf8.dic
     /opt/QT5/ksocrat-5.0.0/dict/ruen_utf8.dic
-6. Run rebuild.sh from _build folder or execute commands:
-    ```qmake-qt5 ../
+6. Run rebuild.sh from _build folder or execute command
+```
+    qmake-qt5 ../
     make -j4
-    ```
+```
